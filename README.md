@@ -2,7 +2,7 @@
 # wechatGroupRobothellohahhaahhffff111
 =======
 
-# wechatGroupRobothellohahhaahh121212
+# wechatGroupRoboth
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
 微信群机器人，在微信群上每天早晨根据天气提醒大家穿衣或带伞，
